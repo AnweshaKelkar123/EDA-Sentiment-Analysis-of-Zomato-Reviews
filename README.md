@@ -7,4 +7,5 @@ Link to the dataset : https://www.kaggle.com/himanshupoddar/zomato-bangalore-res
 To run the project :
 
 Exploratory Data Anaysis: Run the EDA&Visualization.ipynb file with its dataset url pointing to the location where your dataset is stored.
+
 Model Building and Training: Run the LSTM Model.ipynb file with its dataset url pointing to the location where your dataset is stored.
